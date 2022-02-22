@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I love coding and working as self-employeed
+Everyday's constant learning and working is my the first concern and let me get talented relevant skills
 
 ✅ Blockchain
 
@@ -9,10 +10,6 @@ I love coding and working as self-employeed
 ✅ Web
 
    MERN stack, Laravel, Angular , Django, Express, VueJS, Typescript, PHP, MYSQL, GraphQL, Golang.
-   
-✅ Mobile
-
-   React Native
     
 
 ❤ Rich Experience ❤
