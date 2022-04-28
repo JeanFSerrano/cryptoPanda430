@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I love coding and working as self-employeed
+I love coding and working as self-employed. 
 Everyday's constant learning and working is my the first concern and let me get talented relevant skills
 
 ✅ Blockchain
