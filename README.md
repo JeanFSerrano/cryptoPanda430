@@ -20,7 +20,5 @@ Everyday's constant learning and working is my the first concern and let me get 
     
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=cryptoPanda430)
 
-### My Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=cryptoPanda430&count_private=true&show_icons=true&theme=ayu-mirage)
 <br/>
 
