@@ -15,10 +15,11 @@ Everyday's constant learning and working is my the first concern and let me get 
 ❤ Rich Experience ❤
 
    In the past, I have completed some blockchain projects. Especially, I have rich experiences and good knowledges in developing DeFi & NFT Marketplace on the Ethereum compatible networks. 👍
-   
+<div align="center">
+  
 ### GitHub Contributions
     
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=cryptoPanda430)
 
 <br/>
-
+</div>
