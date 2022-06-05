@@ -1,20 +1,17 @@
 ### Hi there 👋
 
-I love coding and working as self-employed. 
 Everyday's constant learning and working is my the first concern and let me get talented relevant skills
 
 ✅ Blockchain
 
-  Ethereum, Binance Smart Chain, Solana, DeFi, NFT Marketplace and Game, Smart Contract, Solidity, Rust, Python, Web3.js, Ethers.js, ERC20, ERC721, ERC1155, BEP-20, BEP-721, BEP-1155, Cryptography
+  DeFi, NFT Marketplace and P2E Game, 
+  Ethereum, Binance Smart Chain, Solana, ERC20, ERC721, ERC1155, Cryptography
+  Solidity, Rust, Web3.js, Ethers.js
   
 ✅ Web
 
-   MERN stack, Angular ,GraphQL, Express, VueJS, Typescript,  MYSQL, GraphQL, PHP, Laravel.
-    
-
-❤ Rich Experience ❤
-
-   In the past, I have completed some blockchain projects. Especially, I have rich experiences and good knowledges in developing DeFi & NFT Marketplace on the Ethereum compatible networks. 👍
+   MERN stack, AWS, Typescript, GraphQL, Express, MySQL, Laravel
+   
 <div align="center">
   
 ### GitHub Contributions
