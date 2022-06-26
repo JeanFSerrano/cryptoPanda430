@@ -18,5 +18,7 @@ Everyday's constant learning and working is my the first concern and let me get 
     
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=cryptoPanda430)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptoPanda430&show_icons=true" alt="crypto panda" /></p>
+
 <br/>
 </div>
