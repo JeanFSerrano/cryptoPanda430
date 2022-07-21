@@ -18,4 +18,6 @@ Everyday's constant learning and working is my the first concern and let me get 
 <div align="center">
 <br/>
 </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptoPanda430&show_icons=true" alt="crypto panda" /></p>
+
+<hr>
+<img alt="Thanks for visiting my profile!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
