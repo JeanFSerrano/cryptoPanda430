@@ -28,5 +28,13 @@ Everyday's constant learning and working is my the first concern and let me get 
 </p>
 -->
  
+<div>
+     <a href="https://discord.gg/cryptopanda#9871" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  
+   <a href="https://github.com/cryptopanda430?tab=repositories"><img src="https://activity-graph.herokuapp.com/graph?username=cryptopanda430&theme=nord&bg_color=2f343f00&hide_border=false" width="90%"/></a>
+  ![Phanatagama](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+    
+ </div>
+  
 <!-- <img alt="Thanks for visiting my profile!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> -->
 
