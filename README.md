@@ -10,11 +10,11 @@ Everyday's constant learning and working is my the first concern and let me get 
 ✔ Blockchain  
    DeFi, NFT, P2E Game, EVM, Solidity, Rust, Web3
   
-<div align="center">
-<br/>
-</div>
+### Technology joke to keep you entertained!
 
-<div style="display: inline-block"><br>
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<div style="display: inline-block">
   <a href="mailto:panda.kk1114@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!--
   <a href="https://t.me/jhonncamarg0" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
